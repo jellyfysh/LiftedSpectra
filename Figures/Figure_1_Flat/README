@@ -1,0 +1,8 @@
+In order to produce Figure 1, run 
+Figure1_Flat_A.py 
+Figure1_Flat_B.py 
+Figure1_Flat_C.py 
+
+This will produce three figures, and also data files in the pckl format. 
+
+Then run Figure1_Flat_ABC_plot.py, in order to produce Figure 1. 
